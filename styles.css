@@ -10,12 +10,12 @@
   object-fit: cover;
 }
 
-#newsletter-signup {
+#newsletter-sign-up {
   max-width: 30rem;
   margin: 4rem auto;
 }
 
-#sticky-nav {
+#fixed-nav {
   position: fixed;
   top: 0;
   left: 0;
